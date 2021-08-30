@@ -1,8 +1,8 @@
 # Fenry Zhou's First CS193 Homework
 
--Interesting Class
--Lots of Peers
--Interactive Instructors
+- Interesting Class
+- Lots of Peers
+- Interactive Instructors
 
 ## Welcome to GitHub Pages
 
